@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Gilberto Calixto 👋
 
-<!--
-**Gilberto-Calixto/Gilberto-Calixto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Desenvolvedor Kotlin focado em:
+- Kotlin Multiplatform (KMP)
+- Compose Multiplatform (CMP)
+- Android Nativo
+- Backend com Ktor
+- Clean Architecture
+- Firebase
 
-Here are some ideas to get you started:
+## 🔥 Atualmente estudando
+- CI/CD para KMP
+- Arquitetura MVI
+- Paginação com Paging 3
+- Ktor Server avançado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projetos em destaque
+- Sistema de gestão empresarial KMP
+- API REST com Ktor + PostgreSQL
+- App de receitas multiplataforma
+- Aplicação com Firebase Auth + Firestore
+
+## 🛠 Tecnologias
+Kotlin • Compose • Ktor • Firebase • SQLDelight • Room • Koin • PostgreSQL
+
+## 📫 Contato
+LinkedIn: [Clique aqui](https://www.linkedin.com/in/gilberto-calixto-andrade-85195a1b1/)
